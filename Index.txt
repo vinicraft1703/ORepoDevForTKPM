@@ -1,0 +1,1 @@
+KindleForge https://raw.githubusercontent.com/vinicraft1703/ORepoDevForTKPM/main/Install-KindleForge.sh
