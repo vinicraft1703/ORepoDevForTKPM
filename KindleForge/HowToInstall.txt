@@ -1,0 +1,7 @@
+Instala o KindleForge copiando os arquivos para /documents.
+
+#TKPMS_start
+COPY KindleForge.sh TO /documents/
+COPY KindleForge/ TO /documents/
+SHOW "KindleForge instalado com sucesso!"
+#TKPMS_finish
